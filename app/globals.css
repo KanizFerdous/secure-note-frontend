@@ -9,8 +9,8 @@
   --danger: #9b2c2c;
   --radius: 6px;
   --shadow: 0 1px 2px rgba(28, 36, 32, 0.06);
-  --font-ui: var(--font-plex), "IBM Plex Sans", sans-serif;
-  --font-display: var(--font-serif), "Source Serif 4", Georgia, serif;
+  --font-ui: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
 }
 
 * { box-sizing: border-box; }
